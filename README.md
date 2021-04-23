@@ -60,6 +60,11 @@ PASSWORD = "Example_Password"
 - trans history.py  file 
 - Then run main.py  file
 ```
+#### Contributors:
+- [Tejas Kadam](https://github.com/Tejas-15)
+- [Manish Jalui](https://github.com/manishjalui11)
+- [Kartik Karkera](https://github.com/Kartik11082)
+
 ## License
 
 FZP Projects
