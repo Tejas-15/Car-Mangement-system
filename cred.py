@@ -1,2 +1,2 @@
-sender ='parkingc769@gmail.com'
-password = 'miniproject'
+sender ='enter sender email id'
+password = 'enter sender password'
