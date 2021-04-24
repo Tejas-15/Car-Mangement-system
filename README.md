@@ -36,11 +36,11 @@ git clone https://github.com/Tejas-15/Car-Mangement-system.git
 #### Install all the requirements.
 
  ```sh
-
+ 
 pip install -r requirements.txt
 
 ```
-
+- screen resolution should be 1920x1080
 ​
 
 #### Fill your details in cred.py file as shown below
