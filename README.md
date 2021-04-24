@@ -20,7 +20,7 @@ Parking Management System  uses a number of open source projects to work properl
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - For GUI
 - [smtplib](https://docs.python.org/3/library/smtplib.html) - For Email
 - [Sqlite3](https://docs.python.org/3/library/sqlite3.html) - For Database Management
-Attendance Manager is a open source project with a [Public Repository](https://github.com/Tejas-15/Car-Mangement-system)
+Car Management system is a open source project with a [Public Repository](https://github.com/Tejas-15/Car-Mangement-system)
  on GitHub.
 
 ## Installation
